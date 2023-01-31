@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="text_color">#5594F1</color>
+    <color name="background_color">#1C2028</color>
+    <color name="background_view_color">#42BBF0</color>
+    <color name="background_item_color">#60C78B</color>
+    <color name="background_btn_color">#42BBF0</color>
+    <color name="background_status_bar_color">#3B5ABB</color>
+</resources>

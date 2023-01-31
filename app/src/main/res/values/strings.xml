@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ExampleNotes</string>
+
+    <!-- AllTaskFragment -->
+    <string name="all_tasks_complete_tasks">Complete tasks : %s</string>
+    <string name="all_tasks_title_tasks">Tasks</string>
+
+    <!-- AddTaskFragment -->
+    <string name="add_task_title">Add Task</string>
+    <string name="add_tasks_title_task">Title task</string>
+    <string name="add_tasks_description_task">Description task</string>
+    <string name="add_task_save_task">Save task</string>
+
+    <!-- AddTaskFragment -->
+    <string name="edit_task_title">Edit Task</string>
+    <string name="edit_task_save_edit">Save edit</string>
+    <string name="edit_task_delete">Delete task</string>
+    <string name="edit_task_edit_title">Edit title</string>
+    <string name="edit_task_edit_description">Edit description</string>
+    <string name="edit_task_dialog_title">Delete task</string>
+    <string name="edit_task_dialog_description">Are you sure, you want to delete the task?</string>
+    <string name="edit_task_dialog_cancel">Cancel</string>
+    <string name="edit_task_dialog_ok">OK</string>
+
+    <!-- Error -->
+    <string name="error_title">Enter title</string>
+    <string name="error_description">Enter description</string>
+</resources>
